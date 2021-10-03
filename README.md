@@ -1,6 +1,6 @@
 # sunefit
 
-A new Flutter project.
+A flutter app that shows information about available sunshine in your place, and suggests methods to save energy that suit you.
 
 ## Getting Started
 
